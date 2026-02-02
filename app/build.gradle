@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.aliciasykes.anti_theft_charge"
+        applicationId "com.mwakidenis.anti_theft_charge"
         minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
@@ -35,4 +35,5 @@ dependencies {
     implementation 'com.github.StevenDXC:DxLoadingButton:2.0'
     implementation 'com.github.javiersantos:MaterialStyledDialogs:2.1'
     implementation 'com.andkulikov:transitionseverywhere:1.7.8'
+
 }
